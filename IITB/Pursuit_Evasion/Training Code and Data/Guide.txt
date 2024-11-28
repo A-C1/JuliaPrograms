@@ -1,0 +1,17 @@
+Refer the following to know which file does what
+
+1) DubinsCar u predictor - tries different ML models and a neural network on the whole single car data
+
+2) Dubins optimal path - numerical optimization code for single car
+
+3) SeparateClassifierSimulator - This file trains RFC for single car for near and far cases separately, and was used to plot simulations
+
+4) Decision Tree visualization - plots the tree structure for the simplest case
+
+5) Decision Tree whole - trains a single decision tree for single car both near and far cases, but SeparateClassifierSimulator was used
+
+6) DubinsAditya - this file does numerical optimization, and was used for generating training data for single car case
+
+7) TwoCarTraining - Trains Pursuer and Evader models, prints optimal paths
+
+Note - all preprocessing done in respective files, just need to run them with data path changed. Just use the data folder, it has all required data

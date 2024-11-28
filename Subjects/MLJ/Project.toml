@@ -1,0 +1,4 @@
+[deps]
+CodecBzip2 = "523fee87-0ab8-5b00-afb7-3ecf72e48cfd"
+RDatasets = "ce6b1742-4840-55fa-b093-852dadbb1d8b"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"

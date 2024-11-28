@@ -1,0 +1,4 @@
+name = "LinearAlgebraLocal"
+uuid = "233595fc-c7a8-4d44-9b47-7a730ace883e"
+authors = ["Aditya Chaudhari <aditya2192@gmail.com>"]
+version = "0.1.0"

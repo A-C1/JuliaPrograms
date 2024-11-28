@@ -1,0 +1,4 @@
+name = "NonlinearEquations"
+uuid = "24d3d338-cfa0-4905-bb19-641becca64a9"
+authors = ["Aditya Chaudhari <aditya2192@gmail.com>"]
+version = "0.1.0"

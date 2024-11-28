@@ -1,0 +1,8 @@
+[[time = 0 + 0*I,
+  multiplicity = 1,
+  x = 2.0 + 0*I,
+  err =  2.223E-16,  rco =  4.000E+00,  res =  8.892E-16],
+ [time = 0 + 0*I,
+  multiplicity = 1,
+  x = -2.0 + 0*I,
+  err =  0.000E+00,  rco =  4.000E+00,  res =  0.000E+00]];
